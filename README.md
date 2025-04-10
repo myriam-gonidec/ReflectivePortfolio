@@ -14,6 +14,8 @@ To be completed
 ![image](https://github.com/user-attachments/assets/6c31c0d6-a6a7-4f68-8503-2758805d287a)
 #### Project GANTT & Effort estimate
 ![image](https://github.com/user-attachments/assets/4756f238-5892-4548-bef9-7e9171230f49)
+#### Business requirements analysis
+![image](https://github.com/user-attachments/assets/a885317a-ba4b-449c-af67-11684566ad41)
 #### Operating mode documentation
 To be completed
 #### Training video for new vizualization
