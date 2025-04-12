@@ -1,7 +1,8 @@
 # A reflective and interactive portfolio
 
 ## Project description
-To be completed
+![image](https://github.com/user-attachments/assets/d5b79058-deea-4603-b94b-faea234a6814)
+
 
 ## Tool
 - PowerBI, PowerQuery, DAX
