@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/839c489a-dbb5-45be-9d79-7ba5398a2ab0)
 
 ## Project description
-Aéroworld is seeking data analytics talent showing a reflective approach and strong analytical abilities aligned with the company’s objectives. Potential candidates must showcase their business and technical abilities with the creation of a reflective and visual portfolio.
+This global air plane manufacturing company is seeking data analytics talent showing a reflective approach and strong analytical abilities aligned with the company’s objectives. Potential candidates must showcase their business and technical abilities with the creation of a reflective and visual portfolio.
 
 ## Tool
 - PowerBI, PowerQuery, DAX
@@ -20,7 +20,6 @@ Aéroworld is seeking data analytics talent showing a reflective approach and st
 ![image](https://github.com/user-attachments/assets/56478f67-e6d3-4d15-b5a1-b219b8d432f5)
 
 ![image](https://github.com/user-attachments/assets/82d9038d-e21b-429c-96b4-bbc89f5d0c46)
-
 
 #### Business requirements analysis
 ![image](https://github.com/user-attachments/assets/584bd948-dc60-41e5-804c-67fbaf6158ab)
