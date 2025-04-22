@@ -24,6 +24,11 @@ This global air plane manufacturing company is seeking data analytics talent sho
 #### Business requirements analysis
 ![image](https://github.com/user-attachments/assets/584bd948-dc60-41e5-804c-67fbaf6158ab)
 
+#### User guide documentation
+![image](https://github.com/user-attachments/assets/a9046a89-bd93-43c4-b180-d81f99bd7376)
+
+#### Training video for new vizualization
+[![image](https://github.com/user-attachments/assets/b8996a35-9132-48d7-b2f5-7affef7e884b)](https://www.loom.com/share/eeb84ae6a0084fe4a9323e46063a09d8?sid=53d6c3b3-7782-45f3-89ee-1e548180a12b)
 
 ## Continuous learning
 ### My main areas of improvment are: 
@@ -33,8 +38,4 @@ This global air plane manufacturing company is seeking data analytics talent sho
 ![image](https://github.com/user-attachments/assets/d5665aaf-9beb-4ec9-baf5-79e06dbdc764)
 ### And Wakelet to capitalize on knowledge to reuse and share.
 ![image](https://github.com/user-attachments/assets/b1425eff-b0f3-4ff7-903d-164792a5e449)
-#### User guide documentation
-![image](https://github.com/user-attachments/assets/a9046a89-bd93-43c4-b180-d81f99bd7376)
 
-#### Training video for new vizualization
-[![image](https://github.com/user-attachments/assets/b8996a35-9132-48d7-b2f5-7affef7e884b)](https://www.loom.com/share/eeb84ae6a0084fe4a9323e46063a09d8?sid=53d6c3b3-7782-45f3-89ee-1e548180a12b)
